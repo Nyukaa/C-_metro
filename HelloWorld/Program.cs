@@ -4,7 +4,10 @@ class Program
 {
     static void Main(string[] args)
     {
-        Fruits.Run();
+       // Fruits.Run();
+      
+       //TypesVariables.Run(args);
+      KiviPaperiSakset.Run(args);
     }
 }
 //Console.WriteLine("Hello, World!");
