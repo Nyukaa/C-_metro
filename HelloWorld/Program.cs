@@ -7,7 +7,7 @@ class Program
        // Fruits.Run();
       
        //TypesVariables.Run(args);
-      KiviPaperiSakset.Run(args);
+      ListanMuokkaaminen.Run(args);
     }
 }
 //Console.WriteLine("Hello, World!");
