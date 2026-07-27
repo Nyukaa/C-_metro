@@ -7,7 +7,7 @@ class Program
        // Fruits.Run();
       
        //TypesVariables.Run(args);
-      ListanMuokkaaminen.Run(args);
+      Kuukausipalkat.Run(args);
     }
 }
 //Console.WriteLine("Hello, World!");
