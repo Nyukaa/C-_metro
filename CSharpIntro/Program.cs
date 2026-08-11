@@ -7,7 +7,7 @@ class Program
        // Fruits.Run();
       
    
-      Task3_1.Run();
+      Task3_2.Run();
     }
 }
 // using System;
