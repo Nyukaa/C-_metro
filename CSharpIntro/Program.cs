@@ -8,7 +8,7 @@ class Program
        // Fruits.Run();
       
    
-     Task4_3.Run();
+     Kvadrantit.Run();
     }
 }
 // using System;
