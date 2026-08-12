@@ -2,12 +2,13 @@
 
 class Program
 {
-    static void Main(string[] args)
+    //static void Main(string[] args)
+    static void Main()
     {
        // Fruits.Run();
       
    
-      Task3_3.Run(args);
+     Task4_3.Run();
     }
 }
 // using System;
