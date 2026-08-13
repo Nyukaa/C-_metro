@@ -5,10 +5,10 @@ class Program
     //static void Main(string[] args)
     static void Main()
     {
-       // Fruits.Run();
+       MerkkienTulostus.Run();
       
    
-     Kvadrantit.Run();
+     //MerkkienTulostus(args);
     }
 }
 // using System;
