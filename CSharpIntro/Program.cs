@@ -2,10 +2,10 @@
 
 class Program
 {
-    //static void Main(string[] args)
-    static void Main()
+    static void Main(string[] args)
+    //static void Main()
     {
-       MerkkienTulostus.Run();
+       ListanMuokkaaminen.Run();
       
    
      //MerkkienTulostus(args);
