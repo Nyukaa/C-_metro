@@ -8,7 +8,7 @@ class Program
         // 1. Проверяем, передан ли аргумент командной строки
         if (args == null || args.Length == 0)
         {
-            Console.WriteLine("Ei tiedostonimeä!");
+            Console.WriteLine("No filename provided!");
             return; 
         }
 
@@ -39,7 +39,7 @@ class Program
         else
         {
             // 3. Вывод ошибки, если файл не найден
-            Console.WriteLine("Tiedostoa ei löytynyt!");
+            Console.WriteLine("File does not exist!");
         }
     }
 }
